@@ -14,6 +14,16 @@ Given data from an IMU (accelerometer and gyroscope), estimate the 3D orientatio
 ## Report:
 You can find the report [here](Report/ESE650Project2.pdf).
 
+## Rotplot outputs for attitude estimation:
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=iCe3o-9moUM
+" target="_blank"><img src="http://img.youtube.com/vi/iCe3o-9moUM/0.jpg" 
+alt="Rotplot Video" width="240" height="180" border="10" /></a>
+
+## Sample Panorama Stitching Output:
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2L4CkAt2Z8U
+" target="_blank"><img src="http://img.youtube.com/vi/2L4CkAt2Z8U/0.jpg" 
+alt="Panorama Stitching Video" width="240" height="180" border="10" /></a>
+
 ## References:
 ##### For UKF:
 1. Kraft, Edgar. "A quaternion-based unscented Kalman filter for orientation tracking." Proceedings of the Sixth International Conference of Information Fusion. Vol. 1. 2003.
